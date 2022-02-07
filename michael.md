@@ -1,4 +1,4 @@
-#My Name is Micahel Crump
+#My Name is Michael Crump
 ####An introduction to me
 
 I am a senior Technology Management major here at Texas A&M University. I enjoy hanging with freinds, playing guitar, and traveling.
