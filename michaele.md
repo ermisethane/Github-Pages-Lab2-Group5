@@ -10,3 +10,5 @@ I plan on becoming a Scrum Master or a Technical Project Manager after I graduat
 
 I actually invest in real estate on the side. I currently have two houses that I rent out short term on AirBnB! 
 One of them are here in BCS so if you know anyone coming into town needing a place to stay, you should check it out! https://airbnb.com/h/theaggieretreat
+
+#### [Back to home](index.md)
