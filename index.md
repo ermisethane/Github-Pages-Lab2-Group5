@@ -1,6 +1,6 @@
-## Our team members are Ruhee, Ethan, Michael E, Michael C, and Tyler.
+# Meet the team! 
 
-### Check out our short personal bios about our team members
+### Check out our short personal bios about our team members below
 
 [Tyler's page](tyler.md)
 
