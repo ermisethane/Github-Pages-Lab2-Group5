@@ -2,7 +2,7 @@
 I plan on becoming a Scrum Master or a Technical Project Manager after I graduate. 
 
 ## My interests: 
--rock climbing 
+-rock climbing <br>
 -white water rafting
 -traveling to new places
 -I also just got into skateboarding and long boarding one week ago
