@@ -3,8 +3,8 @@ I plan on becoming a Scrum Master or a Technical Project Manager after I graduat
 
 ## My interests: 
 -rock climbing <br>
--white water rafting
--traveling to new places
+-white water rafting<br>
+-traveling to new places<br>
 -I also just got into skateboarding and long boarding one week ago
 
 I actually invest into real estate on the side. I currently have two houses that I rent out short term on AirBnB! 
