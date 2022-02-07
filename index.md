@@ -5,6 +5,5 @@
 
 [Ruhee's page](ruheeC.md)
 
-[Michael C's page] (michael.md)
+[Michael C's page](michael.md)
 
-[Ethan's page](ethan.md)
