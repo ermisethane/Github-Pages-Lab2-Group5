@@ -1,6 +1,6 @@
 ## **Welcome to Ethan's Page** 
 
-![Me](https://user-images.githubusercontent.com/79734197/152835742-4c4e2858-a017-4224-af24-deae4294e66f.jpg)
+<img src="https://user-images.githubusercontent.com/79734197/152835742-4c4e2858-a017-4224-af24-deae4294e66f.jpg" width="400" height="300">
 
 ### Little about me
 - Born and raised in the Houston area of Texas
