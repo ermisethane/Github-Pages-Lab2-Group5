@@ -1,7 +1,7 @@
-#Howdy! My name is Michael Elege. I am a senior Technology Management student! 
+# Howdy! My name is Michael Elege. I am a senior Technology Management student! 
 I plan on becoming a Scrum Master or a Technical Project Manager after I graduate. 
 
-##My interests: 
+## My interests: 
 -rock climbing 
 -white water rafting
 -traveling to new places
