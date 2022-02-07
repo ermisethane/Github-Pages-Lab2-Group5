@@ -1,7 +1,7 @@
 # Michael Crumps Page
 #### An introduction to me
 
-I am a senior Technology Management major here at Texas A&M University. I enjoy hanging with freinds, playing guitar, and traveling.
+I am a senior Technology Management major here at Texas A&M University. I enjoy hanging with friends, playing guitar, and traveling.
 - From Frisco, TX
 - Favorite team is the Cowboys
 - I also love all things Aggie Sports
