@@ -21,7 +21,7 @@ I have a passion for cooking and trying new food. In my free time I watch my fav
 <img src="https://user-images.githubusercontent.com/98358771/152855137-c52b5d81-f37c-4a3f-abf6-965ae9b8b4de.jpeg" width="200" height="350">   
 <img src="https://user-images.githubusercontent.com/98358771/152855551-4edb2670-6303-4a26-a4df-52712bad22df.jpeg" width="400" height=350">
 
-<img src="https://user-images.githubusercontent.com/98358771/152855634-2db5f194-c816-4ba4-bb21-5f8e24700f6b.jpeg" width="350" height="400">
+<img src="https://user-images.githubusercontent.com/98358771/152855634-2db5f194-c816-4ba4-bb21-5f8e24700f6b.jpeg" width="300" height="400">
 <img src="https://user-images.githubusercontent.com/98358771/152855859-ceb19acc-78c5-4ee1-bf69-a4a6d1b951b1.jpeg" width="375" height="400">
 
 #### [Back to home](index.md)
