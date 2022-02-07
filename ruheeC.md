@@ -18,7 +18,7 @@ I have a passion for cooking and trying new food. In my free time I watch my fav
 
 ### Places I've traveled 
 
-![Dubai] <img src="https://user-images.githubusercontent.com/98358771/152855137-c52b5d81-f37c-4a3f-abf6-965ae9b8b4de.jpeg" width="150" height="200">
+<img src="https://user-images.githubusercontent.com/98358771/152855137-c52b5d81-f37c-4a3f-abf6-965ae9b8b4de.jpeg" width="150" height="200">
 
 ![London](https://user-images.githubusercontent.com/98358771/152855551-4edb2670-6303-4a26-a4df-52712bad22df.jpeg)
 
