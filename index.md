@@ -7,3 +7,4 @@
 
 [Michael C's page] (michael.md)
 
+[Ethan's page](ethan.md)
